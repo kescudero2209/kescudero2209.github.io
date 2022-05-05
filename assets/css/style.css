@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.container img{
+    width: 30px;
+}
+
+html{
+	scroll-behavior: smooth;
+}
