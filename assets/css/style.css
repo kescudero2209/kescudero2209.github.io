@@ -12,3 +12,16 @@ body{
 html{
 	scroll-behavior: smooth;
 }
+footer {
+    bottom: 0;
+    width: 100%;
+    
+    }
+
+#Contacto{
+    background-color:aqua;
+}
+
+.imgfooter{
+    width: 30px;
+}
