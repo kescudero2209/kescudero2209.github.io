@@ -1,28 +1,28 @@
-body{
-    background-color:antiquewhite;
-    margin: 0px;
-    background-attachment: fixed;
-    background-size: cover;
-    font-family: cursive;
+body {
+  background-color: antiquewhite;
+  margin: 0px;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: cursive;
 }
 
-.container img{
-    width: 30px;
+.container img {
+  width: 30px;
+}
+/* para que baje a las secciones */
+html {
+  scroll-behavior: smooth;
 }
 
-html{
-	scroll-behavior: smooth;
-}
 footer {
-    bottom: 0;
-    width: 100%;
-    
-    }
-
-#Contacto{
-    background-color:aqua;
+  bottom: 0;
+  width: 100%;
 }
 
-.imgfooter{
-    width: 30px;
+#Contacto {
+  background-color: aqua;
+}
+
+.imgfooter {
+  width: 30px;
 }
